@@ -1,0 +1,1 @@
+{"bootstrap":true,"server":true,"datacenter":"local","data_dir":"/Users/nichol/lsq/satotto/.consul/data","ui_dir":"/Applications/LSQ.app/Contents/Misc/resources/ui","bind_addr":"127.0.0.1","ports":{"dns":-1,"http":8501,"rpc":8401,"serf_lan":8303,"serf_wan":8304,"server":8305}}

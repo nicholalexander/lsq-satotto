@@ -1,0 +1,1 @@
+{"Check":{"Node":"nca.local","CheckID":"service:email","Name":"Service 'email' check","Status":"critical","Notes":"","Output":"","ServiceID":"email","ServiceName":"email"},"ChkType":{"Script":"","HTTP":"http://localhost:3003/health","Interval":1000000000,"Timeout":0,"TTL":0,"Notes":""}}

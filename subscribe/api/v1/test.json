@@ -1,0 +1,10 @@
+{
+  "api": {
+    "mailchimp": {
+      "token": "d84eb77a4706b916937b7f1b9c512eab-us1",
+      "lists": {
+        "lsq": "366b4fc707"
+      }
+    }
+  }
+}

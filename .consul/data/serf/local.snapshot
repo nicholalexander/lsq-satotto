@@ -1,0 +1,6 @@
+alive: nca.local 127.0.0.1:8300
+event-clock: 1
+alive: nca.local 127.0.0.1:8303
+event-clock: 2
+alive: nca.local 127.0.0.1:8303
+alive: nca.local 127.0.0.1:8303
