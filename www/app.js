@@ -36,6 +36,12 @@ app.get('/', function(req, res){
   });
 });
 
+app.get('/about', function(req, res){
+  res.render('about', {
+    title: 'About'
+  });
+});
+
 app.post('/api/v1/subscribe',function(req,res){
   lsq.services.get('subscribe')
     .then(function(service){
